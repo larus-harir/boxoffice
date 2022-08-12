@@ -16,7 +16,7 @@ data[res]
 
 # 숫자필터링 
 
-intdata = pd.read_csv('/content/MyDrive/MyDrive/movie.csv', encoding='cp949', index_col='순위', thousands = ',') 
+intdata = pd.read_csv('/movie.csv', encoding='cp949', index_col='순위', thousands = ',') 
 
 key1 = input("필터링할 구역을 입력하세요 : ")
 key2 = int(input("원하는 숫자를 입력하세요 : "))
