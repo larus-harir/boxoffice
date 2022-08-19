@@ -6,16 +6,16 @@
 
 아래는 실행 결과입니다
 
-[모두 출력]
+[모두 출력]<br>
 ![AllSearch](https://user-images.githubusercontent.com/65019433/185520521-12dcd253-431b-4d67-811e-6028610c3922.png)
 
-[원하는 갯수 출력]
+[원하는 갯수 출력]<br>
 ![CountSearch](https://user-images.githubusercontent.com/65019433/185520522-93a9e745-517e-4db5-a3e4-5886dfc02139.png)
 
-[구역 구별 출력]
+[구역 구별 출력]<br>
 ![PlaceSearch](https://user-images.githubusercontent.com/65019433/185520525-2f62d0ed-caba-49a7-88ee-132f755153f6.png)
 
-[문자 구별 출력]
+[문자 구별 출력]<br>
 ![StringSearch](https://user-images.githubusercontent.com/65019433/185520527-a419084f-f7c5-4145-aa6b-3b85fe8ed124.png)
 
 [숫자 구별 출력]<br>
