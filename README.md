@@ -18,5 +18,5 @@
 [문자 구별 출력]
 ![StringSearch](https://user-images.githubusercontent.com/65019433/185520527-a419084f-f7c5-4145-aa6b-3b85fe8ed124.png)
 
-[숫자 구별 출력]
+[숫자 구별 출력]<br>
 ![NumberSearch](https://user-images.githubusercontent.com/65019433/185520523-b5300de0-e320-44e4-a5d1-0b2a86b8b64c.png)
